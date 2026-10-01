@@ -1,0 +1,11 @@
+.DS_Store
+*.zip
+MiMercado/.gradle/
+MiMercado/build/
+MiMercado/app/build/
+MiMercado/local.properties
+MiMercado/.idea/
+*.apk
+*.aab
+*.jks
+*.keystore
