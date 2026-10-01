@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/logo-app.png" width="120" alt="Logo de MiMercado">
+  <img src="docs/icono-app-512x512.png" width="120" alt="Logo de MiMercado">
 </p>
 
 <h1 align="center">MiMercado</h1>
